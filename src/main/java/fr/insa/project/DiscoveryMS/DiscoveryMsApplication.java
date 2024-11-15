@@ -1,4 +1,4 @@
-package fr.insa.discovery.ms.DiscoveryMS;
+package fr.insa.project.DiscoveryMS;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
