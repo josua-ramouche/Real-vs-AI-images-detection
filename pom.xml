@@ -8,7 +8,7 @@
 		<version>3.4.0-RC1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>fr.insa.discovery.ms</groupId>
+	<groupId>fr.insa.project</groupId>
 	<artifactId>DiscoveryMS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>DiscoveryMS</name>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>23</java.version>
+		<java.version>17</java.version>
 		<spring-cloud.version>2024.0.0-M2</spring-cloud.version>
 	</properties>
 	<dependencies>
