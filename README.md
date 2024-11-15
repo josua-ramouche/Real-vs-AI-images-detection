@@ -1,2 +1,2 @@
-# Real-vs-AI-images-detection
-Real vs AI-images Project
+# SOA_Project
+SOA Project
