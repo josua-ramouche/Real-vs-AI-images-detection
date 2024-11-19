@@ -1,0 +1,24 @@
+.drag-and-drop {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+label {
+    width: 350px;
+    box-sizing: border-box;
+}
+
+.custom-uploader {
+    background-color: #ffffff; 
+    border: 2px dashed #65b2a0;
+    
+}
+  
+.custom-uploader:hover {
+    background-color: #e0f0e0;
+}
