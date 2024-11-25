@@ -1,6 +1,6 @@
 import {AppBar, Toolbar, Typography, Box} from "@mui/material";
 import './App.css'
-import DragAndDropBox from "./components/DragAndDropBox";
+import Page from "./components/Page";
 
 function App() {
 
@@ -15,7 +15,7 @@ function App() {
           </Toolbar>
         </AppBar>
         <Box>
-          <DragAndDropBox />
+          <Page />
         </Box>
       </div>
     </>
